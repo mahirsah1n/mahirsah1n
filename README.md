@@ -91,6 +91,23 @@ Building real projects to turn theory into instinct — and sharpening data stru
 
 ---
 
+## 🧩 Coding Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira_Code&border=0" alt="LeetCode Stats" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
 ## 🎓 Education
 
 | Degree | Institution | Period |

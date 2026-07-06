@@ -1,10 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mahir%20Sahin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20%26%20Systems%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
+# Hey, I'm Mahir 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UEK+Krak%C3%B3w;Python+%7C+Flask+%7C+AI+%2F+ML+Foundations;Building+one+commit+at+a+time)](https://git.io/typing-svg)
 
-</div>
+*Originally from Istanbul, building myself into a serious engineer — no shortcuts, no copy-paste understanding.*
 
 ---
 
@@ -84,23 +82,6 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahirsah1n&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📫 Get In Touch
 
 <div align="center">
@@ -117,6 +98,6 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 
 *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a5f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=footer&text=Mahir%20Sahin&fontSize=42&fontColor=ffffff&fontAlignY=75&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20%26%20Systems%20Engineer&descAlignY=90&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 </div>

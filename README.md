@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mahir%20Sahin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20%26%20Systems%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mahir%20Sahin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20and%20Systems%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UEK+Krak%C3%B3w;Python+%7C+Flask+%7C+AI+%2F+ML+Foundations;Understanding+the+why%2C+not+just+the+what;Building+myself+one+commit+at+a+time)](https://git.io/typing-svg)
 

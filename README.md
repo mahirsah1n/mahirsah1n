@@ -1,68 +1,122 @@
 <div align="center">
 
-# Hey, I'm Mahir 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mahir%20Sahin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20%26%20Systems%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UEK+Krak%C3%B3w;Aspiring+AI+%26+Systems+Engineer;Building+one+commit+at+a+time)](https://git.io/typing-svg)
-
-*Originally from Istanbul, building myself into a serious engineer — no shortcuts, no copy-paste understanding.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UEK+Krak%C3%B3w;Python+%7C+Flask+%7C+AI+%2F+ML+Foundations;Building+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧭 About Me
+## 👋 About Me
 
-I'm a CS student focused on AI and systems engineering, but I don't think in silos. I care about *understanding* — why code works, why an argument holds, why a training program actually produces results. That cross-domain habit shows up everywhere I work.
+I'm a Computer Science student based in **Kraków, Poland**, originally from **Istanbul, Turkey**. I'm building myself into a serious AI & systems engineer — the kind who understands *why* code works, not just that it does.
 
-- 🤖 **Focus** → AI/ML foundations, systems thinking, Python-first engineering
+- 🎓 **Studying** → Computer Science, Krakow University of Economics (2025–2028)
+- 🎯 **Focus** → AI/ML foundations, backend engineering, Python-first development
 - 🧠 **Also into** → philosophy & critical thinking, evidence-based fitness, neuroscience
+- ⚽ **Off-screen** → competitive football with an international student group in Kraków
 - 🌍 **From** → Istanbul, Turkey → now based in Kraków, Poland
-- 📖 **Right now** → deepening data structures, algorithms, and applied ML
 
 ---
 
-### 🛠️ Tech Stack
+## 📌 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Also exploring:** Machine Learning · Data Visualization · AI Ethics *(certified through DeepLearning.AI, University of Helsinki, and IBM — full list on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336))*
-
----
-
-### 📌 Featured Projects
-
-| Project | What it does | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🩹 [**ACL Rehabilitation Tracker**](https://github.com/mahirsah1n/ACL_REHAB_TRACKER) | Tracks rehab exercises, nutrition, and pain after my own ACL injury — built as my CS50 final project | Python |
-| 📅 [**UEK Schedule Scraper**](https://github.com/mahirsah1n/UEK_SCHEDULE_SCRAPER) | Logs into USOSweb and exports my class schedule as a `.ics` calendar file | Python, Selenium, BeautifulSoup |
-| 🛒 [**CeneoFlask**](https://github.com/mahirsah1n/CeneoFlask) | Flask app that scrapes Ceneo.pl product reviews into stats and interactive charts | Python, Flask |
+| 🩹 [**ACL Rehabilitation Tracker**](https://github.com/mahirsah1n/ACL_REHAB_TRACKER) | CLI tool tracking rehab exercises, nutrition, and pain after my own ACL injury made three separate notebooks unmanageable. CS50 final project. | Python |
+| 📅 [**UEK Schedule Scraper**](https://github.com/mahirsah1n/UEK_SCHEDULE_SCRAPER) | Logs into USOSweb and exports my class schedule as a `.ics` calendar file — syncs straight into Google/Apple Calendar | Python, Selenium, BeautifulSoup |
+| 🛒 [**CeneoFlask**](https://github.com/mahirsah1n/CeneoFlask) | Flask web app that scrapes Ceneo.pl product reviews and turns them into stats and interactive charts | Python, Flask |
 
 ---
 
-### 🌱 Beyond Code
+## 🛠️ Tech Stack
 
-Competitive football with an international student group, evidence-based approach to training and nutrition, and a running interest in philosophy — logic and argument structure especially. I think the best engineers are the ones who reason well outside of code too.
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+
+**Currently Deepening**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=flat-square)
 
 ---
 
-### 📊 GitHub Stats
+## 📚 Certifications & Continuous Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&theme=dark&layout=compact" width="48%" />
-</p>
+| Area | Certification | Issuer |
+|---|---|---|
+| AI & ML | AI For Everyone | DeepLearning.AI |
+| AI & ML | Intro to Machine Learning | Kaggle |
+| AI & ML | Deep Learning Fundamentals | Cognitive Class |
+| AI & ML | Ethics of AI | University of Helsinki |
+| AI & ML | Intro to AI Ethics | Kaggle |
+| Data Science | Python 101 for Data Science | Cognitive Class |
+| Data Science | Pandas | Kaggle |
+| Data Science | Data Visualization | Kaggle |
+| Data Science | Scientific Computing with Python | freeCodeCamp |
+| Programming | CS50: Introduction to Programming with Python | Harvard University |
+| Programming | Python (Basic) | HackerRank |
+| Problem Solving | Problem Solving (Basic & Intermediate) | HackerRank |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahirsah1n&theme=dark" width="60%" />
-</p>
+*Full list with credentials on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336).*
+
+**Languages:** Turkish (Native) · English (Professional working proficiency) · German (Elementary)
 
 ---
 
-### 📫 Get in Touch
+## 🎓 Education
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-şahin-19439b336)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirshn58@gmail.com)
+| Degree | Institution | Period |
+|---|---|---|
+| BSc Computer Science | Krakow University of Economics | 2025 – 2028 |
+| English Language Course | Wrocław University of Science and Technology | Mar 2025 – Sep 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahirsah1n&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-mahirshn58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirshn58@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahir--şahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-şahin-19439b336)
+[![GitHub](https://img.shields.io/badge/GitHub-mahirsah1n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirsah1n)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a5f&height=100&section=footer" width="100%"/>
+
+</div>

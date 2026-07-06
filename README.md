@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=200&section=header&text=Mahir%20Sahin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20%26%20Systems%20Engineer&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UEK+Krak%C3%B3w;Python+%7C+Flask+%7C+AI+%2F+ML+Foundations;Building+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CS+Student+%40+UEK+Krak%C3%B3w;Python+%7C+Flask+%7C+AI+%2F+ML+Foundations;Understanding+the+why%2C+not+just+the+what;Building+myself+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student based in **Kraków, Poland**, originally from **Istanbul, Turkey**. I'm building myself into a serious AI & systems engineer — the kind who understands *why* code works, not just that it does.
+I'm a Computer Science student based in **Kraków, Poland**, originally from **Istanbul, Turkey**. I'm building myself into a serious **AI & systems engineer** — the kind who understands *why* code works, not just that it does. No shortcuts, no copy-paste understanding.
 
 - 🎓 **Studying** → Computer Science, Krakow University of Economics (2025–2028)
 - 🎯 **Focus** → AI/ML foundations, backend engineering, Python-first development
@@ -20,13 +20,26 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 
 ---
 
+## 🚀 What I'm Working On
+
+Building real projects to turn theory into instinct — and sharpening data structures & algorithms one problem at a time.
+
+| Domain | What I'm deepening |
+|---|---|
+| **Algorithms & DSA** | Working through NeetCode 150 — arrays & hashing, two pointers, sliding window. Understanding every line, not memorizing solutions |
+| **Backend Engineering** | Flask + SQLite REST APIs, web scraping pipelines, clean project structure |
+| **AI / ML Foundations** | Math + intuition first — linear algebra, statistics, the ML pipeline before the frameworks |
+| **Systems Thinking** | The `os` module, exception hierarchies, and the *why* behind design decisions |
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | 🩹 [**ACL Rehabilitation Tracker**](https://github.com/mahirsah1n/ACL_REHAB_TRACKER) | CLI tool tracking rehab exercises, nutrition, and pain after my own ACL injury made three separate notebooks unmanageable. CS50 final project. | Python |
-| 📅 [**UEK Schedule Scraper**](https://github.com/mahirsah1n/UEK_SCHEDULE_SCRAPER) | Logs into USOSweb and exports my class schedule as a `.ics` calendar file — syncs straight into Google/Apple Calendar | Python, Selenium, BeautifulSoup |
-| 🛒 [**CeneoFlask**](https://github.com/mahirsah1n/CeneoFlask) | Flask web app that scrapes Ceneo.pl product reviews and turns them into stats and interactive charts | Python, Flask |
+| 📅 [**UEK Schedule Scraper**](https://github.com/mahirsah1n/UEK_SCHEDULE_SCRAPER) | Logs into USOSweb and exports my class schedule as a `.ics` calendar file — syncs straight into Google/Apple Calendar | Python · Selenium · BeautifulSoup |
+| 🛒 [**CeneoFlask**](https://github.com/mahirsah1n/CeneoFlask) | Flask web app that scrapes Ceneo.pl product reviews and turns them into stats and interactive charts | Python · Flask |
 
 ---
 
@@ -37,6 +50,7 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Frameworks & Libraries**
 
@@ -44,11 +58,13 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Currently Deepening**
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B5CF6?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
@@ -72,6 +88,23 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 *Full list with credentials on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336).*
 
 **Languages:** Turkish (Native) · English (Professional working proficiency) · German (Elementary)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahirsah1n&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -99,5 +132,7 @@ I'm a Computer Science student based in **Kraków, Poland**, originally from **I
 <div align="center">
 
 *"First, solve the problem. Then, write the code."* — John Johnson
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=100&section=footer" width="100%"/>
 
 </div>

@@ -2,9 +2,9 @@
 
 # Hey, I'm Mahir 👋
 
-**Computer Science Student @ UEK Kraków · Aspiring AI & Systems Engineer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%40+UEK+Krak%C3%B3w;Aspiring+AI+%26+Systems+Engineer;Building+one+commit+at+a+time)](https://git.io/typing-svg)
 
-*Originally from Istanbul, building myself into a serious engineer — one project, one commit at a time.*
+*Originally from Istanbul, building myself into a serious engineer — no shortcuts, no copy-paste understanding.*
 
 </div>
 
@@ -29,8 +29,7 @@ I'm a CS student focused on AI and systems engineering, but I don't think in sil
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Also exploring:** Machine Learning · Data Visualization · AI Ethics
-*(certified through DeepLearning.AI, University of Helsinki, and IBM — full list on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336))*
+**Also exploring:** Machine Learning · Data Visualization · AI Ethics *(certified through DeepLearning.AI, University of Helsinki, and IBM — full list on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336))*
 
 ---
 
@@ -50,9 +49,20 @@ Competitive football with an international student group, evidence-based approac
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahirsah1n&theme=dark&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahirsah1n&theme=dark" width="60%" />
+</p>
+
+---
+
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-şahin-19439b336)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirshn58@gmail.com)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&theme=dark)

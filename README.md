@@ -95,7 +95,7 @@ Building real projects to turn theory into instinct — and sharpening data stru
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira_Code&border=0" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/cKKr74Fzb1?theme=dark&font=Fira_Code&border=0" alt="LeetCode Stats" />
 
 </div>
 

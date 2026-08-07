@@ -85,7 +85,7 @@ Building real projects to turn theory into instinct — and sharpening data stru
 | Programming | Python (Basic) | HackerRank |
 | Problem Solving | Problem Solving (Basic & Intermediate) | HackerRank |
 
-*Full list with credentials on [LinkedIn](https://linkedin.com/in/mahir-şahin-19439b336).*
+*Full list with credentials on [LinkedIn](https://linkedin.com/in/mahirsah1n).*
 
 **Languages:** Turkish (Native) · English (Professional working proficiency) · German (Elementary)
 
@@ -95,7 +95,7 @@ Building real projects to turn theory into instinct — and sharpening data stru
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/cKKr74Fzb1?theme=dark&font=Fira_Code&border=0" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/mahirsah1n?theme=dark&font=Fira_Code&border=0" alt="LeetCode Stats" />
 
 </div>
 
@@ -115,7 +115,7 @@ Building real projects to turn theory into instinct — and sharpening data stru
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mahirshn58%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirshn58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahir--şahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahir-şahin-19439b336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahirsah1n-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahirsah1n)
 [![GitHub](https://img.shields.io/badge/GitHub-mahirsah1n-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahirsah1n)
 
 </div>

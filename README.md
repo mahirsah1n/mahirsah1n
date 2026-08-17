@@ -92,33 +92,4 @@ Scrapes product reviews off Ceneo.pl and turns them into stats and charts you ca
 </div>
 
 ---
-
-## learning log
-
-Certificates are just receipts, but here are the ones that left something behind:
-
-`CS50P` Harvard · `Scientific Computing with Python` freeCodeCamp · `Intro to Machine Learning` Kaggle · `Pandas` Kaggle · `Data Visualization` Kaggle · `Ethics of AI` University of Helsinki · `Deep Learning Fundamentals` Cognitive Class · `AI For Everyone` DeepLearning.AI · `Problem Solving` HackerRank
-
-Full list with credentials lives on [LinkedIn](https://linkedin.com/in/mahirsah1n).
-
-**languages** — Turkish (native) · English (professional) · German (still early)
-
----
-
-## say hi
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=d4a373)](mailto:mahirshn58@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d4a373)](https://linkedin.com/in/mahirsah1n)
-[![GitHub](https://img.shields.io/badge/github-1a1a1a?style=for-the-badge&logo=github&logoColor=d4a373)](https://github.com/mahirsah1n)
-
-<br>
-
-> *"First, solve the problem. Then, write the code."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,40:161616,100:0a0a0a&height=110&section=footer" width="100%"/>
-
 </div>

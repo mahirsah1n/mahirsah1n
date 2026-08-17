@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,60:161616,100:262626&height=170&section=header&text=mahir%20sahin&fontSize=52&fontColor=e8e4dc&fontAlignY=36&desc=cs%20student%20·%20krak%C3%B3w%20·%20writes%20python%20at%20night&descAlignY=58&descColor=8a8378&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a5f,100:38bdf8&height=170&section=header&text=mahir%20sahin&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=cs%20student%20·%20krak%C3%B3w%20·%20writes%20python%20at%20night&descAlignY=58&descColor=94a3b8&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=17&pause=1400&color=D4A373&center=true&vCenter=true&width=520&lines=learning+slowly%2C+on+purpose;python+%C2%B7+backend+%C2%B7+the+math+under+the+model;understand+the+why%2C+not+just+the+what)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=17&pause=1400&color=38BDF8&center=true&vCenter=true&width=520&lines=learning+slowly%2C+on+purpose;python+%C2%B7+backend+%C2%B7+the+math+under+the+model;understand+the+why%2C+not+just+the+what)](https://git.io/typing-svg)
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ## about
 
-<img align="right" src="assets/desk-bw.jpg" width="270" alt="desk, somewhere past midnight" />
+<img align="right" src="https://raw.githubusercontent.com/mahirsah1n/mahirsah1n/main/desk-bw.jpg" width="270" alt="desk, somewhere past midnight" />
 
 I'm Mahir. Turkish, living in Kraków, studying Computer Science at the Krakow University of Economics.
 
@@ -61,16 +61,16 @@ Scrapes product reviews off Ceneo.pl and turns them into stats and charts you ca
 
 ## tools
 
-![Python](https://img.shields.io/badge/python-1a1a1a?style=flat-square&logo=python&logoColor=e8e4dc)
-![Flask](https://img.shields.io/badge/flask-1a1a1a?style=flat-square&logo=flask&logoColor=e8e4dc)
-![SQLite](https://img.shields.io/badge/sqlite-1a1a1a?style=flat-square&logo=sqlite&logoColor=e8e4dc)
-![Pandas](https://img.shields.io/badge/pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=e8e4dc)
-![NumPy](https://img.shields.io/badge/numpy-1a1a1a?style=flat-square&logo=numpy&logoColor=e8e4dc)
-![Selenium](https://img.shields.io/badge/selenium-1a1a1a?style=flat-square&logo=selenium&logoColor=e8e4dc)
-![Git](https://img.shields.io/badge/git-1a1a1a?style=flat-square&logo=git&logoColor=e8e4dc)
-![Linux](https://img.shields.io/badge/linux-1a1a1a?style=flat-square&logo=linux&logoColor=e8e4dc)
-![SQL](https://img.shields.io/badge/sql-1a1a1a?style=flat-square&logo=postgresql&logoColor=e8e4dc)
-![VS Code](https://img.shields.io/badge/vscode-1a1a1a?style=flat-square&logo=visualstudiocode&logoColor=e8e4dc)
+![Python](https://img.shields.io/badge/python-0d1117?style=flat-square&logo=python&logoColor=38bdf8)
+![Flask](https://img.shields.io/badge/flask-0d1117?style=flat-square&logo=flask&logoColor=38bdf8)
+![SQLite](https://img.shields.io/badge/sqlite-0d1117?style=flat-square&logo=sqlite&logoColor=38bdf8)
+![Pandas](https://img.shields.io/badge/pandas-0d1117?style=flat-square&logo=pandas&logoColor=38bdf8)
+![NumPy](https://img.shields.io/badge/numpy-0d1117?style=flat-square&logo=numpy&logoColor=38bdf8)
+![Selenium](https://img.shields.io/badge/selenium-0d1117?style=flat-square&logo=selenium&logoColor=38bdf8)
+![Git](https://img.shields.io/badge/git-0d1117?style=flat-square&logo=git&logoColor=38bdf8)
+![Linux](https://img.shields.io/badge/linux-0d1117?style=flat-square&logo=linux&logoColor=38bdf8)
+![SQL](https://img.shields.io/badge/sql-0d1117?style=flat-square&logo=postgresql&logoColor=38bdf8)
+![VS Code](https://img.shields.io/badge/vscode-0d1117?style=flat-square&logo=visualstudiocode&logoColor=38bdf8)
 
 ---
 
@@ -78,8 +78,7 @@ Scrapes product reviews off Ceneo.pl and turns them into stats and charts you ca
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahirsah1n&show_icons=true&hide_border=true&bg_color=0d1117&title_color=d4a373&text_color=8a8378&icon_color=d4a373&hide_title=true" height="150" alt="stats" />
-<img src="https://streak-stats.demolab.com?user=mahirsah1n&hide_border=true&background=0d1117&stroke=1a1a1a&ring=d4a373&fire=d4a373&currStreakLabel=d4a373&sideLabels=8a8378&currStreakNum=e8e4dc&sideNums=e8e4dc&dates=6b655c" height="150" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=mahirsah1n&hide_border=true&background=0d1117&stroke=1e3a5f&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=64748b" height="160" alt="streak" />
 
 <br><br>
 
@@ -87,9 +86,38 @@ Scrapes product reviews off Ceneo.pl and turns them into stats and charts you ca
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsah1n&bg_color=0d1117&color=8a8378&line=d4a373&point=e8e4dc&area=true&hide_border=true" width="95%" alt="activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahirsah1n&bg_color=0d1117&color=94a3b8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="95%" alt="activity" />
 
 </div>
 
 ---
+
+## learning log
+
+Certificates are just receipts, but here are the ones that left something behind:
+
+`CS50P` Harvard · `Scientific Computing with Python` freeCodeCamp · `Intro to Machine Learning` Kaggle · `Pandas` Kaggle · `Data Visualization` Kaggle · `Ethics of AI` University of Helsinki · `Deep Learning Fundamentals` Cognitive Class · `AI For Everyone` DeepLearning.AI · `Problem Solving` HackerRank
+
+Full list with credentials lives on [LinkedIn](https://linkedin.com/in/mahirsah1n).
+
+**languages** — Turkish (native) · English (professional) · German (still early)
+
+---
+
+## say hi
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:mahirshn58@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/mahirsah1n)
+[![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/mahirsah1n)
+
+<br>
+
+> *"First, solve the problem. Then, write the code."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1e3a5f,100:0d1117&height=110&section=footer" width="100%"/>
+
 </div>
